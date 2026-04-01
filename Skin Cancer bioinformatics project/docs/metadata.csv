@@ -1,0 +1,11 @@
+sample_id,class_label,disease_type
+SRR14524074,1,Skin Cancer (Melanoma)
+SRR14524075,1,Skin Cancer (Melanoma)
+SRR14524076,1,Skin Cancer (Melanoma)
+SRR14524077,1,Skin Cancer (Melanoma)
+SRR14524078,1,Skin Cancer (Melanoma)
+SRR14524079,0,Healthy Skin
+SRR14524080,0,Healthy Skin
+SRR14524081,0,Healthy Skin
+SRR14524082,0,Healthy Skin
+SRR14524083,0,Healthy Skin

@@ -1,0 +1,9 @@
+biopython
+
+pandas
+
+matplotlib
+
+seaborn
+
+scikit-bio
